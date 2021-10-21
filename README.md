@@ -1,0 +1,3 @@
+- 👋 Hola! Soy Lucas Cisterna, @Lucascis en Github. Soy estudiante de Ingeniería en Software.
+- 👀 Me interesa la tecnología en general pero estoy sobretodo interesado en backend.
+- 🌱 Actualmente estoy aprendiendo desarrollo web en Coderhouse. Proximamente voy a realizar el curso de Javascript.
